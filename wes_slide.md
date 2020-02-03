@@ -2,8 +2,8 @@
 
 ----
 
-![Image of lmod logo](lmod.png)
+![Image of lmod logo](images/lmod.png)
 
 ----
 
-![Image of Singularity logo](singularity.png)
+![Image of Singularity logo](images/singularity.png)
