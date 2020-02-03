@@ -11,3 +11,7 @@
 ----
 
 ![Image of Slack logo](images/slack.png)
+
+----
+
+![Image of Carpentries logo](images/carpentries.png)
