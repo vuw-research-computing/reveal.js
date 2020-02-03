@@ -7,3 +7,7 @@
 ----
 
 ![Image of Singularity logo](images/singularity.png)
+
+----
+
+![Image of Slack logo](images/slack.png)
